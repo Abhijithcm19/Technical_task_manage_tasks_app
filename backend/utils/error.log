@@ -1,0 +1,2 @@
+[31m[ERROR] 02:38:59 Error in signup: secretOrPrivateKey must have a value[0m
+[31m[ERROR] 02:44:05 Error in signup: User validation failed: email: Please add a valid email[0m

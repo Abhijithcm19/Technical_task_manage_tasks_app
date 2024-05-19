@@ -1,0 +1,54 @@
+[36m[INFO] 02:10:06 Server is running on port 3000[0m
+[36m[INFO] 02:10:06 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:14:10 Server is running on port 3000[0m
+[36m[INFO] 02:14:10 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:15:31 Server is running on port 3000[0m
+[36m[INFO] 02:15:31 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:22:43 Server is running on port 3000[0m
+[36m[INFO] 02:22:43 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:22:57 Server is running on port 3000[0m
+[36m[INFO] 02:22:57 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:23:12 Server is running on port 3000[0m
+[36m[INFO] 02:23:12 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:23:18 Server is running on port 3000[0m
+[36m[INFO] 02:23:18 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:23:40 Server is running on port 3000[0m
+[36m[INFO] 02:23:40 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:23:48 Server is running on port 3000[0m
+[36m[INFO] 02:23:48 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:24:50 Server is running on port 3000[0m
+[36m[INFO] 02:24:50 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:24:56 Server is running on port 3000[0m
+[36m[INFO] 02:24:56 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:27:50 Server is running on port 3000[0m
+[36m[INFO] 02:27:50 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:27:57 Server is running on port 3000[0m
+[36m[INFO] 02:27:57 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:28:00 Server is running on port 3000[0m
+[36m[INFO] 02:28:00 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:30:26 Server is running on port 3000[0m
+[36m[INFO] 02:30:26 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:31:48 Server is running on port 3000[0m
+[36m[INFO] 02:31:48 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:34:37 POST /api.taskify.com/login[0m
+[36m[INFO] 02:35:38 Server is running on port 3000[0m
+[36m[INFO] 02:35:38 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:35:41 Server is running on port 3000[0m
+[36m[INFO] 02:35:41 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:35:45 Server is running on port 3000[0m
+[36m[INFO] 02:35:45 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:37:22 Server is running on port 3000[0m
+[36m[INFO] 02:37:22 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:37:24 Server is running on port 3000[0m
+[36m[INFO] 02:37:24 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:38:15 Server is running on port 3000[0m
+[36m[INFO] 02:38:15 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:38:27 Server is running on port 3000[0m
+[36m[INFO] 02:38:27 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:38:35 Server is running on port 3000[0m
+[36m[INFO] 02:38:35 Database connected: 127.0.0.1, task-management-system[0m
+[31m[ERROR] 02:38:59 Error in signup: secretOrPrivateKey must have a value[0m
+[36m[INFO] 02:41:30 Server is running on port 3000[0m
+[36m[INFO] 02:41:30 Database connected: 127.0.0.1, task-management-system[0m
+[36m[INFO] 02:43:38 GET /api.tasktrack.com/auth/login[0m
+[31m[ERROR] 02:44:05 Error in signup: User validation failed: email: Please add a valid email[0m
